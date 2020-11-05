@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hello there 👋
+I'm a computer engineering student at the University of Waterloo
+- Here's where I keep all the cool stuff I work on 😄
+- Checkout my [website](https://davidhzhu.me/) to learn more and how to contact me 📫 
 <!--
 **DavidHZhu/DavidHZhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
