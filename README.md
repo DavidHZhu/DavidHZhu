@@ -1,3 +1,6 @@
+# David Zhu
+[![Github](https://img.shields.io/github/followers/DavidHZhu?label=Follow&style=social)](https://github.com/DavidHZhu)
+[![Website](https://img.shields.io/website?up_message=https%3A%2F%2Fdavidhzhu.me%2F&url=https%3A%2F%2Fdavidhzhu.me%2F)](https://davidhzhu.me/)
 ### Hello there 👋
 I'm a computer engineering student at the University of Waterloo
 - Here's where I keep all the cool stuff I work on 😄
