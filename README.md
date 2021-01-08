@@ -6,6 +6,9 @@
 I'm a computer engineering student at the University of Waterloo
 - Here's where I keep all the cool stuff I work on 😄
 - Checkout my [website](https://davidhzhu.me/) to learn more and how to contact me 📫 
+
+![David's github stats](https://github-readme-stats.vercel.app/api?username=DavidHZhu&count_private=true&show_icons=true&include_all_commits=true&theme=algolia&hide_rank=true)
+
 <!--
 **DavidHZhu/DavidHZhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
