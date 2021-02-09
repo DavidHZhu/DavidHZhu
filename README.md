@@ -1,7 +1,7 @@
 # David Zhu 👨‍💻
 
 [![Website Badge](https://img.shields.io/badge/-davidhzhu.me-8E44AD?style=flat&logo=safari&logoColor=white&link=https://davidhzhu.me)](https://davidhzhu.me)
-[![Linkedin Badge](https://img.shields.io/badge/-DavidHZhu-8E44AD?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/DavidHZhu/)](https://www.linkedin.com/in/davidhzhu/)
+[![Linkedin Badge](https://img.shields.io/badge/-DavidHZhu-8E44AD?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-h-zhu/)](https://www.linkedin.com/in/david-h-zhu/)
 [![Gmail Badge](https://img.shields.io/badge/-david.han.zhu@uwaterloo.ca-8E44AD?style=flat&logo=mail.ru&logoColor=white&link=mailto:david.han.zhu@uwaterloo.ca)](mailto:david.han.zhu@uwaterloo.ca)
 [![Website Badge](https://img.shields.io/badge/-lolsketch.com-8E44AD?style=flat&logo=Riot-games&logoColor=white&link=https://lolsketch.com)](https://lolsketch.com)
 
