@@ -1,4 +1,4 @@
-# David Zhu
+# David Zhu 👨‍💻
 
 [![Website Badge](https://img.shields.io/badge/-davidhzhu.me-8E44AD?style=flat&logo=safari&logoColor=white&link=https://davidhzhu.me)](https://davidhzhu.me)
 [![Linkedin Badge](https://img.shields.io/badge/-DavidHZhu-8E44AD?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/DavidHZhu/)](https://www.linkedin.com/in/davidhzhu/)
