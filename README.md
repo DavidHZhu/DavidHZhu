@@ -7,7 +7,7 @@
 
 
 ## Hello there 👋<img align="right" style="margin:110px 15px" src="https://github-readme-stats.vercel.app/api?username=DavidHZhu&count_private=true&show_icons=true&include_all_commits=true&theme=algolia&hide_rank=true">
-I'm a Computer Engineering student at the University of Waterloo - Winter Coop 3B
+I'm a Computer Engineering student at the University of Waterloo - Fall Coop 4A
 - 😄 Here's where I keep all the cool stuff I work on 
 - 🔭 Currently working on [Lol Sketch](https://lolsketch.com) - League of Legends pictionary game
 - 📫 Checkout my [website](https://davidhzhu.me/) to learn more and how to contact me   
